@@ -22,7 +22,7 @@ This collection of files is the original and revised content and code for a cont
 
 ### Content Rewrite
 
--[ ] Divide content into new sections
+-[X] Divide content into new sections
 
 -[ ] Populate each section with relevant details
 
