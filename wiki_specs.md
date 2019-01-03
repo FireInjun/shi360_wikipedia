@@ -1,3 +1,5 @@
+# Client Spec Sheet
+
 1.  Life and career
     Canadian rapper, producer and performer. Raised by North-African parents in the complex reality of Israel has influenced his music to reflect an eclectic mix of Middle Eastern melodies, North African Rhythms and thought provoking lyrics. His dad, of Tunisian descent, would play an unconventional mix of Salim Halali, Otis Redding, Edith Piaf, Charles Aznavour, Oum Kalthoum, Yehoram Gaon and many more…It was this rich musical environment that forged his artistic direction from a young age.
     He first heard hip hop music on “The Voice of Peace”. A Pirate radio station run by Israeli peace activist Abie Nathan (Kol HaShalom). The broadcast was from a ship “somewhere in the Mediterranean”. It was the only place where the young SHI 360 could hear “The Message” by Grandmaster Flash and the Furious Five.

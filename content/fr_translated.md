@@ -1,3 +1,5 @@
+# French Content Translated by Google
+
 Biography
 Born to a Tunisian father and a Moroccan mother, he spent his childhood in Haifa (Israel) until he moved with his family to Montreal , Canada when he was 12 years old. The move is difficult for Shai, he faces a new language and anti - Semitism , which he explains in his solo album. [Which one?] On a visit to Israel in 1997 , Shai meets Kobi Shimoni , another young adult interested in rap. They become friends and Shai starts working as a DJ in Kobi Shimoni's club. He also gives Kobi his new artist name, Subliminal.
 

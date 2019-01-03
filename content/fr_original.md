@@ -1,3 +1,5 @@
+# French Content Original
+
 Biographie
 sien et d'une mère marocaine, il passe son enfance à Haifa (Israël) jusqu'à ce qu'il déménage avec sa famille pour Montréal, Canada lorsqu'il a 12 ans. Le déménagement est difficile pour Shai, il doit faire face à une nouvelle langue et à l'antisémitisme, ce qu'il explique dans son album solo.[Lequel ?] Lors d'une visite en Israël en 1997, Shai rencontre Kobi Shimoni, un autre jeune adulte à s'intéresser au rap. Ils deviennent amis et Shai commence à travailler comme DJ dans le club de Kobi Shimoni. Il donne aussi à Kobi son nouveau nom d'artiste, Subliminal.
 
