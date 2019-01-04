@@ -24,9 +24,9 @@ This collection of files is the original and revised content and code for a cont
 
 -[X] Divide content into new sections
 
--[ ] Populate each section with relevant details
+-[X] Populate each section with relevant details
 
--[ ] Make references and tags
+-[X] Make references and tags
 
 ---
 
