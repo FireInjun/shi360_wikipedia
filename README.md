@@ -16,9 +16,9 @@ This collection of files is the original and revised content and code for a cont
 
 -[X] Prepare new image for embedding
 
--[ ] Embed new image for wikipedia page
+-[X] Embed new image for wikipedia page
 
--[ ] Update French wiki to include new image
+-[X] Update French wiki to include new image
 
 ### Content Rewrite
 
@@ -62,6 +62,6 @@ This collection of files is the original and revised content and code for a cont
 
 ## Finalization
 
--[ ] Publish page and request offical review for posting
+-[X] Publish page and request offical review for posting
 
--[ ] Update code on the french wikipedia page to embed the new image
+-[X] Update code on the french wikipedia page to embed the new image
