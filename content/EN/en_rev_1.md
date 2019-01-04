@@ -1,5 +1,9 @@
 # English Content Revision 1
 
+<!-- header tagline -->
+
+Shai Haddad, better known by his stage name SHI 360, was born 19 july 1976, and is a Israeli-Canadian Rapper, DJ, and Music Producer. He is fully fluent and performs his music in English, French, and Hebrew.
+
 <!-- === Early Life === -->
 
 Shai was born to a Tunisian father and a Moroccan mother and spent his childhood in the city of Haifa (Israel).
