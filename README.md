@@ -14,7 +14,7 @@ This collection of files is the original and revised content and code for a cont
 
 -[X] Format correctly to include images and relevant links
 
--[ ] Prepare new image for embedding
+-[X] Prepare new image for embedding
 
 -[ ] Embed new image for wikipedia page
 
@@ -32,29 +32,29 @@ This collection of files is the original and revised content and code for a cont
 
 ### Wiki Code Formatting
 
--[ ] Include the artist profile template with image
+-[X] Include the artist profile template with image
 
--[ ] Ensure Each new section and subsection are labeled correctly
+-[X] Ensure Each new section and subsection are labeled correctly
 
--[ ] Cite work and link relevant pages
+-[X] Cite work and link relevant pages
 
--[ ] Debug and finalize for review
+-[X] Debug and finalize for review
 
 ---
 
 ### Prepare new image for embedding
 
--[ ] Check and reformat image if needed to `.png` format
+-[X] Check and reformat image if needed to `.png` format
 
--[ ] Upload image to the wikimedia commons
+-[X] Upload image to the wikimedia commons
 
 ---
 
 ### Embed Image in English wiki page
 
--[ ] Change link in artist profile template to match new image name
+-[X] Change link in artist profile template to match new image name
 
--[ ] Verify acceptance and test preview
+-[X] Verify acceptance and test preview
 
 ---
 
