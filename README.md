@@ -10,15 +10,15 @@ This collection of files is the original and revised content and code for a cont
 
 ## Requirements:
 
--[ ] Rewrite content to fit wikipedia page rules and regulations
+-[X] Rewrite content to fit wikipedia page rules and regulations
 
--[ ] Format correctly to include images and relevant links
+-[X] Format correctly to include images and relevant links
 
 -[ ] Prepare new image for embedding
 
 -[ ] Embed new image for wikipedia page
 
-## -[ ] Update French wiki to include new image
+-[ ] Update French wiki to include new image
 
 ### Content Rewrite
 
