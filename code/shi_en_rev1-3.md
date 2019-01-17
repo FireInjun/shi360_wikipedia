@@ -1,5 +1,7 @@
 {{AFC submission|d|ilc|u=Fireinjun|ns=118|decliner=SamHolt6|declinets=20190104025614|reason2=v|ts=20190103165211}} <!-- Do not remove this line! -->
 
+{{Connected contributor (paid)|User1=Fireinjun|U1-employer=''Shai Haddad''|U1-client=''Shai Haddad''}}
+
 ---
 
 {{Paid contributions}}
@@ -19,7 +21,7 @@
 | years_active = 1999 - Present
 | website = {{URL|https://www.shi360.com}}
 }}
-'''Shai Haddad''', better known by his stage name '''SHI 360''', was born (19 july 1976), and is an Israeli-Canadian [[Rapper]], [[DJ]], and [[Music Producer]] of North-African descent. He is fully fluent and performs music in English, [[French]], and [[Hebrew]].<ref name=jpost>{{Cite web|url=https://www.jpost.com/Jewish-World/Jewish-Features/Do-you-know-real-hip-hop|title=Do you know real hip-hop? - Jewish World - Jerusalem Post|website=www.jpost.com|access-date=2019-01-04}}</ref><ref name=algemeiner>{{Cite web|url=https://www.algemeiner.com/2012/01/24/shalom-haters-interview-with-israelinorth-african-mc-shi-360|title=Interview with Israeli/North African MC SHI 360 - algemeiner|website=www.algemeiner.com|access-date=2019-01-04}}</ref><ref name=sxsw>{{Cite web|url=https://schedule.sxsw.com/2016/events/event_MS36024|title=SHI 360 event page|website=www.sxsw.com|access-date=2019-01-04}}</ref><ref name=israelnationalnews>{{Cite web|url=http://www.israelnationalnews.com/News/News.aspx/152964|title=Rapper SHI 360 Defends Israel on Campus, in Media - Music and Entertainment - Israel International News|website=www.israelnationalnews.com|access-date=2019-01-04}}</ref>
+'''Shai Haddad''', better known by his stage name '''SHI 360''', was born (19 july 1976), and is an Israeli-Canadian<ref name="CJN">{{Cite web | url=http://archive.wikiwix.com/cache/?url=http%3A%2F%2Fwww.cjnews.com%2Fviewarticle.asp%3Fid%3D8374|title=Ex-Montrealer is Israel's newest homeboy|website=http://www.cjnews.com/|access-date=2019-01-14}}</ref>[[Rapper]], [[DJ]], and [[Music Producer]] of North-African descent. He is fully fluent and performs music in English, [[French]], and [[Hebrew]].<ref name=jpost>{{Cite web|url=https://www.jpost.com/Jewish-World/Jewish-Features/Do-you-know-real-hip-hop|title=Do you know real hip-hop? - Jewish World - Jerusalem Post|website=www.jpost.com|access-date=2019-01-04}}</ref><ref name=algemeiner>{{Cite web|url=https://www.algemeiner.com/2012/01/24/shalom-haters-interview-with-israelinorth-african-mc-shi-360|title=Interview with Israeli/North African MC SHI 360 - algemeiner|website=www.algemeiner.com|access-date=2019-01-04}}</ref><ref name=sxsw>{{Cite web|url=https://schedule.sxsw.com/2016/events/event_MS36024|title=SHI 360 event page|website=www.sxsw.com|access-date=2019-01-04}}</ref><ref name=israelnationalnews>{{Cite web|url=http://www.israelnationalnews.com/News/News.aspx/152964|title=Rapper SHI 360 Defends Israel on Campus, in Media - Music and Entertainment - Israel International News|website=www.israelnationalnews.com|access-date=2019-01-04}}</ref>
 
 == Life and Career ==
 
